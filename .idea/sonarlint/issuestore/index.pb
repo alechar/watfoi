@@ -1,0 +1,21 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+X
+(src/main/java/com/tiac/IntellijTips.java,2\8\281eec60eab9e3ba37fde4d97fcd6cd284abd687
+\
+,src/test/java/com/tiac/IntellijTipsTest.java,1\8\18ca38d6b4fcbde4883c79fb36dcd5a1d878e8bf
+P
+ src/main/java/com/tiac/User.java,e\5\e5ddac49f2d767ed26f5d12ae127db19bc88eaf6
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$src/main/java/com/tiac/NewClass.java,4\4\4420d316fed7b467ee417ae7d7b1340f2d6910b8
+U
+%src/test/java/com/tiac/Asserting.java,5\4\54f70740ab791a93cc3cf0ebf2b6acd5599f1761
+V
+&src/test/java/com/tiac/AssertTest.java,e\e\eec8c48b0cf46cb732117985f22e79c9be4f53ee
+Q
+!src/main/java/com/tiac/Movie.java,4\0\4085525480a8b8fde2ffb7ef8342a2a2939b1280
+e
+5src/main/java/com/tiac/SomeClassWithVeryLongName.java,9\a\9a9c2f7a7b2ad8395eaca1859f62e5f6414bcd4b
