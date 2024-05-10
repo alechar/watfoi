@@ -2,7 +2,6 @@ package com.tiac;
 
 import java.time.LocalDateTime;
 import java.util.List;
-import java.util.Optional;
 
 public class User {
 
@@ -18,6 +17,18 @@ public class User {
 
     private List<Integer> integerList;
 
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
     public User() {
     }
 
@@ -28,14 +39,6 @@ public class User {
         this.lastName = lastName;
         this.password = password;
         this.creationDatetime = creationDatetime;
-        this.email = email;
-    }
-
-    public Optional<String> getEmail() {
-        return Optional.ofNullable(email);
-    }
-
-    public void setEmail(String email) {
         this.email = email;
     }
 
@@ -79,19 +82,12 @@ public class User {
         this.lastName = lastName;
     }
 
-    public boolean isActive() {
-        return isActive;
+
+    public static int substract(int a, int b) {
+        return a - b;
     }
 
-    public void setActive(boolean active) {
-        isActive = active;
-    }
-
-    public int sumAndSubtract(int a, int b, boolean sign) {
-        if (sign) {
-            return a + b;
-        } else {
-            return a - b;
-        }
+    public static int sum(int a, int b) {
+        return a + b;
     }
 }

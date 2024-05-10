@@ -6,9 +6,6 @@ public class Movie {
     public static final int CATEGORY_NEW_RELEASE = 1;
 
     enum MovieType {
-        CHILDRENS,
-        TRILLER,
-        NEW_RELEASE
 
     }
 

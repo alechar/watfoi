@@ -28,7 +28,6 @@
   - Token-based (ALT-J, F3 skip)
 
 ### Quick fix
-- Define variable for expression
 - Add/delete parameter
   
 ### Live Templates
